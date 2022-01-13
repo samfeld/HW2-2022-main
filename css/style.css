@@ -19,11 +19,6 @@ div{
     padding: 20px;
     border: 3px solid #fff;
 }
-div.red{
-    text-decoration: underline;
-    text-transform: uppercase;
-    text-shadow: 0px;
-}
 .intro{
     border-radius: 15px solid #fff important!;
     margin-top: 15px;
@@ -66,7 +61,7 @@ p{
 .yellow p{
     color: #000;
 }
-#yellow h2{
+.yellow h2{
     text-shadow: 2px 4px #c7e2c7;
 }
 .yellow{
