@@ -4,6 +4,15 @@ img{
     margin: auto;
     border: 10px dashed #fff;
 }
+body {
+    line-height:1;
+    font-family: Verdana, "Times New Roman";
+    background-color: #000;
+    color: #fff;
+    margin-top:25px;
+    margin-right:25px;
+    margin-left:25px;
+}
 div{
     min-height: 100px; 
     overflow: hidden;
@@ -19,15 +28,7 @@ div#red{
     border-radius: 15px solid #fff important!;
     margin-top: 15px;
 }
-body {
-    line-height:1;
-    font-family: Verdana, "Times New Roman";
-    background-color: #000;
-    color: #fff;
-    margin-top:25px;
-    margin-right:25px;
-    margin-left:25px;
-}
+
 
 h1{
     font-size: 48px;
@@ -82,8 +83,6 @@ p{
     border-right: 10px;
     border-bottom: 3px;
 }
-
-
 footer p{
     padding-top: 10px;
     padding-right:10px;
