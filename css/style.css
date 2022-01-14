@@ -20,7 +20,7 @@ div{
     border: 3px solid #fff;
 }
 div.intro{
-    border-radius: 15px solid #fff important!;
+    border-radius: 15px solid #fff;
     margin-top: 15px;
 }
 
