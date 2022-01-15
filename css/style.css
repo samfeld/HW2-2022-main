@@ -56,7 +56,7 @@ div.blue{
     border-right: 10px solid #fff;
     border-bottom: 3px solid #fff;
     border-left: 0;
-    border-top: 0;
+    border-top: 0 !important;
 }
 .yellow h2{
     color: #000;
@@ -82,7 +82,7 @@ div.blue{
     border-right: 10px solid #fff;
     border-bottom: 3px solid #fff;
     border-left: 0 ;
-    border-top: 0;
+    border-top: 0 !important;
 }
 footer p{
     padding-top: 10px;
