@@ -55,7 +55,7 @@ div.blue{
     margin-right: 50px;
     border-right: 10px solid #fff;
     border-bottom: 3px solid #fff;
-    border-left:0 important!;
+    border-left: 0px important!;
 }
 .yellow h2{
     color: #000;
