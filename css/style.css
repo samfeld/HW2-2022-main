@@ -44,7 +44,7 @@ div.red{
     background-color: #f00;
     text-align: right;
     margin-left: 50px;
-    border-bottom: 3px;
+    border-bottom: 3px !important;
     border-left: 10px solid #fff;
     border-right:0; 
     border-top: 0;
@@ -55,7 +55,8 @@ div.blue{
     margin-right: 50px;
     border-right: 10px solid #fff;
     border-bottom: 3px solid #fff;
-    border-left: 0px;
+    border-left: 0;
+    border-top: 0;
 }
 .yellow h2{
     color: #000;
@@ -80,7 +81,8 @@ div.blue{
     margin-right: 50px;
     border-right: 10px solid #fff;
     border-bottom: 3px solid #fff;
-    border-left:0 ;
+    border-left: 0 ;
+    border-top: 0;
 }
 footer p{
     padding-top: 10px;
