@@ -47,6 +47,7 @@ div.red{
     border-bottom: 3px;
     border-left: 10px solid #fff;
     border-right:0; 
+    border-top: 0;
 }
 div.blue{
     background-color:#00f;
