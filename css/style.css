@@ -74,6 +74,7 @@ div.blue{
     border-bottom: 3px !important;
     border-left: 10px solid #fff;
     border-right:0 !important; 
+    border-top: 3px solid #fff;
 }
 .green{
     background-color:  #008500;
