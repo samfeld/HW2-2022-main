@@ -13,6 +13,11 @@ body {
     margin-right:25px;
     margin-left:25px;
 }
+span{
+    Text-transform: uppercase !important;
+    text-decoration: underline !important;
+    text-shadow: 0 !important;
+}
 div{
     min-height: 100px; 
     overflow: hidden;
