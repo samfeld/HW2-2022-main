@@ -50,9 +50,9 @@ div.red{
     border-top: 0;
 }
 .red span{
-    Text-transform: uppercase;
-    text-decoration: underline;
-    text-shadow: 0;
+    Text-transform: uppercase !important;
+    text-decoration: underline !important;
+    text-shadow: 0 !important;
 }
 
 div.blue{
