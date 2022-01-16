@@ -44,7 +44,7 @@ div.red{
     background-color: #f00;
     text-align: right;
     margin-left: 50px;
-    border-bottom: 3px solid #fff;
+    border-bottom: 3px solid #fff !important;
     border-left: 10px solid #fff;
     border-right:0; 
     border-top: 0;
@@ -54,7 +54,7 @@ div.blue{
     text-align: left;
     margin-right: 50px;
     border-right: 10px solid #fff;
-    border-bottom: 3px solid #fff;
+    border-bottom: 3px solid #fff !important;
     border-left: 0;
 }
 .yellow h2{
