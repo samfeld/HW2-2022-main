@@ -67,7 +67,7 @@ div.blue{
 .yellow h2{
     text-shadow: 2px 4px #c7e2c7;
 }
-.yellow{
+div.yellow{
     background-color: #ff0;
     text-align: right;
     margin-left: 50px;
@@ -76,7 +76,7 @@ div.blue{
     border-right:0 !important; 
     border-top: 0px !important;
 }
-.green{
+div.green{
     background-color:  #008500;
     text-align: left;
     margin-right: 50px;
