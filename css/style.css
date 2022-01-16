@@ -56,6 +56,7 @@ div.blue{
     border-right: 10px solid #fff;
     border-bottom: 3px solid #fff !important;
     border-left: 0;
+    border-top: 0 !important;
 }
 .yellow h2{
     color: #000;
@@ -73,6 +74,7 @@ div.blue{
     border-bottom: 3px !important;
     border-left: 10px solid #fff;
     border-right:0 !important; 
+    border-top: 0px !important;
 }
 .green{
     background-color:  #008500;
