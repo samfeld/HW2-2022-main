@@ -16,7 +16,7 @@ body {
 span{
     Text-transform: uppercase !important;
     text-decoration: underline !important;
-    text-shadow: none !important;
+    text-shadow: unset !important;
 }
 div{
     min-height: 100px; 
