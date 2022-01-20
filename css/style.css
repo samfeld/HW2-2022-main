@@ -106,8 +106,9 @@ footer{
 }
 footer p{
     padding-top: 10px !important;
-    padding-right:10px;
-    padding-bottom:10px;
+    padding-right:10px !important;
+    padding-bottom:10px!important;
+    padding-left: 0!important;
     font-size:20px;
     
 }
