@@ -105,10 +105,9 @@ footer{
     
 }
 footer p{
-    text-align:center;
-    padding-top: 10px;
+    padding-top: 10px !important;
     padding-right:10px;
     padding-bottom:10px;
     font-size:20px;
-    
+    text-align:center;
 }
