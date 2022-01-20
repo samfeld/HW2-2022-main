@@ -98,15 +98,16 @@ div.green{
     border-left: 0 ;
     border-top: 0 !important;
 }
+
+footer{
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(0,0,255,1) 25%, rgba(0,102,255,1) 70%, rgba(2,0,36,1) 100%);
+}
 .footer p{
-    text-align: center !important;
+    text-align:center;
     padding-top: 10px;
     padding-right:10px;
     padding-bottom:10px;
     font-size:20px;
     
-}
-footer{
-    background: rgb(2,0,36);
-    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(0,0,255,1) 25%, rgba(0,102,255,1) 70%, rgba(2,0,36,1) 100%);
 }
