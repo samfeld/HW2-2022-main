@@ -99,12 +99,12 @@ div.green{
     border-top: 0 !important;
 }
 .footer p{
+    text-align: center;
     padding-top: 10px !important;
     padding-right:10px !important;
     padding-bottom:10px !important;
-    padding-left:0;
     font-size:20px;
-    text-align: center;
+    
 }
 footer{
     background: rgb(2,0,36);
