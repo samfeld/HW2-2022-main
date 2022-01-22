@@ -14,7 +14,7 @@ body {
     margin-left:25px;
 }
 span{
-    Text-transform: uppercase !important;
+    text-transform: uppercase !important;
     text-decoration: underline !important;
     text-shadow: none !important;
 }
@@ -50,11 +50,13 @@ p{
 div.red{
     background-color: #f00;
     text-align: right;
+    padding: 20px;
     margin-left: 50px;
     border-bottom: 3px solid #fff !important;
     border-left: 10px solid #fff;
     border-right:0; 
     border-top: 0;
+    
 }
 .red span{
     Text-transform: uppercase !important;
@@ -66,6 +68,7 @@ div.blue{
     background-color:#00f;
     text-align: left;
     margin-right: 50px;
+    padding: 20px;
     border-right: 10px solid #fff;
     border-bottom: 3px solid #fff !important;
     border-left: 0;
@@ -83,6 +86,7 @@ div.blue{
 div.yellow{
     background-color: #ff0;
     text-align: right;
+    padding: 20px;
     margin-left: 50px;
     border-bottom: 3px solid #fff!important;
     border-left: 10px solid #fff;
@@ -92,6 +96,7 @@ div.yellow{
 div.green{
     background-color:  #008500;
     text-align: left;
+    padding: 20px;
     margin-right: 50px;
     border-right: 10px solid #fff;
     border-bottom: 3px solid #fff;
